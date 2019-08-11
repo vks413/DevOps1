@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21107" started-at="2019-08-11T13:42:54Z" finished-at="2019-08-11T13:43:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21107" started-at="2019-08-11T13:42:54Z" finished-at="2019-08-11T13:43:15Z">
+      <class name="com.Automation.SampleDevOps.TestClass">
+        <test-method status="PASS" signature="launchBrowse()[pri:0, instance:com.Automation.SampleDevOps.TestClass@5034c75a]" name="launchBrowse" is-config="true" duration-ms="4442" started-at="2019-08-11T19:12:54Z" finished-at="2019-08-11T19:12:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowse -->
+        <test-method status="PASS" signature="methodTest1()[pri:0, instance:com.Automation.SampleDevOps.TestClass@5034c75a]" name="methodTest1" duration-ms="2924" started-at="2019-08-11T19:12:58Z" finished-at="2019-08-11T19:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTest1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Automation.SampleDevOps.TestClass@5034c75a]" name="closeBrowser" is-config="true" duration-ms="2335" started-at="2019-08-11T19:13:01Z" finished-at="2019-08-11T19:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowse()[pri:0, instance:com.Automation.SampleDevOps.TestClass@5034c75a]" name="launchBrowse" is-config="true" duration-ms="3514" started-at="2019-08-11T19:13:04Z" finished-at="2019-08-11T19:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowse -->
+        <test-method status="PASS" signature="methodTest2()[pri:0, instance:com.Automation.SampleDevOps.TestClass@5034c75a]" name="methodTest2" duration-ms="5762" started-at="2019-08-11T19:13:07Z" finished-at="2019-08-11T19:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTest2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Automation.SampleDevOps.TestClass@5034c75a]" name="closeBrowser" is-config="true" duration-ms="2094" started-at="2019-08-11T19:13:13Z" finished-at="2019-08-11T19:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Automation.SampleDevOps.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
