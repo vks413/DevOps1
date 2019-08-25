@@ -9,9 +9,9 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 //Class for testing
-public class TestClass {
+public class  TestClass {
 	
-public static WebDriver driver;
+static  WebDriver driver;
 
 @BeforeMethod
 public static void launchBrowse()
